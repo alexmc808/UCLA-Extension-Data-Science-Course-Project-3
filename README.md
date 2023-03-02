@@ -1,0 +1,3 @@
+## READ ME
+
+Repository for UCLA Extension Data Science Certification course related to Project #3 on using R to download data sets from URLs, impute missing values in data sets, and run logistic regression models to find significant predictor variables. Part B involves filtering out relevant data in data sets. Part C involves using the https://www.kaggle.com/c/zillow-prize-1/kernels data to run linear regression models in order to find out what variables are significant in predicting the Zestimate's forecast errors. 
